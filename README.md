@@ -19,3 +19,4 @@ Simple Emoji expression keyboard
 ![image](https://github.com/diycoder/EasyEmoji/blob/master/app/src/screenshot/multi_emoji.gif) 
  
 Thanks <a href="https://github.com/ongakuer/CircleIndicator">CircleIndicator</a>  、<a href="https://github.com/dss886/Android-EmotionInputDetector">Android-EmotionInputDetector</a>
+
